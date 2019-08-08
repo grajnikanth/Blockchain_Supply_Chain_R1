@@ -67,7 +67,7 @@ npm run dev
 ## Rinkeby Testnet Contract Deployment
 SupplyChain.sol
 
-Transaction Hash: 0xa8071e596deb7146cc4658bff055c1a62d1838a78ff3c1202cdc85165efb65d3
+Transaction Hash: 0xa8071e596deb7146cc4658bff055c1a62d1838a78ff3c1202cdc85165efb65d3                                           
 contract address: 0x287a46D0d8772E66DB56794b20EeAaF59793574a
 
 ## Libraries 
