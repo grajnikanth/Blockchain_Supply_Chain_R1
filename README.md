@@ -1,6 +1,8 @@
 # Supply chain & data auditing
 
-In this project I created a Decentralized Application (DApp) for a tracking a product life cylce from Seller to Buyer (supply chain) backed by the Ethereum platform. I created smart contracts that manage specific actor's permission controls to modify data on the Blockchain. Smart contracts were implement to track and verify a product’s authenticity using Ethereum Blockchain. Truffle Framework was used for this project. A web based frontend was also created that allows actors in the suply chain to interact with the DApp. This frontend is used to manage product lifecycle as the product navigates down the supply chain from Seller to Buyer.
+In this project I created a Decentralized Application (DApp) for a tracking a product life cylce from Seller to Buyer (supply chain) using the Ethereum Blockchain. Tracking a product's supply chain on a Blockchain provides shared ledger that’s updated and validated instantaneously by each network participant. The results are greater collaboration, streamlined inventory management, improved asset utilization and more. 
+
+I created smart contracts that manage specific actor's permission controls to modify data on the Blockchain. Smart contracts were implemented to track and verify a product’s authenticity. Truffle Framework was used for this project. A web based frontend was also created that allows actors in the suply chain to interact with the DApp. This frontend is used to manage product lifecycle as the product navigates down the supply chain from Seller to Buyer.
 
 There are four actors involved in this supply chain 
 * Farmer: The Farmer can harvest coffee beans, process coffee beans, pack coffee palettes, add coffee palettes, ship coffee palettes, and track authenticity.
