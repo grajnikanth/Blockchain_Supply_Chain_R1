@@ -1,4 +1,4 @@
-# Supply chain & data auditing
+# Supply Chain & Product Authenticity Tracking using Blockchain
 
 In this project I created a Decentralized Application (DApp) for a tracking a product life cylce from Seller to Buyer (supply chain) using the Ethereum Blockchain. Tracking a product's supply chain on a Blockchain provides shared ledger that’s updated and validated instantaneously by each network participant. The results are greater collaboration, streamlined inventory management, improved asset utilization and more. 
 
